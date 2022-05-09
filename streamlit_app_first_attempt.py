@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 import streamlit as st 
 import numpy as np 
 import pandas as pd
@@ -104,7 +101,6 @@ plt.colorbar()
 st.pyplot(fig)
 
 
-# In[ ]:
 
 
 
